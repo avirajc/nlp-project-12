@@ -1,1 +1,1 @@
-# nlp-project-12
+# laptop-price-prediction
